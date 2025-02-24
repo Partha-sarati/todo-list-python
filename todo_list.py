@@ -6,8 +6,8 @@ while True:
         break
     list.append(enter_task)
 for lists in list :
-    enumerate(list)
     print(lists)
+   
 
 
     
